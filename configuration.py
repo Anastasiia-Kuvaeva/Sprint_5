@@ -1,6 +1,0 @@
-URL_SERVICE = "https://stellarburgers.nomoreparties.site/"
-URL_REGISTER = URL_SERVICE + "register"
-URL_LOGIN = URL_SERVICE + "login"
-URL_FORGOT_PASSWORD = URL_SERVICE + "forgot-password"
-URL_ACCOUNT = URL_SERVICE + "account"
-URL_ACCOUNT_PROFILE = URL_SERVICE + "account/profile"
